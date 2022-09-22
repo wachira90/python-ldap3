@@ -25,3 +25,5 @@ Please note that example environment has user accounts in a parent domain and co
 It was fun figuring out the AD search filter format for objectGuids in a regular LDAP search and how to handle pulling membership for AD groups with over 1,500 members. 
 ````
 
+
+https://ldap3.readthedocs.io/en/latest/tutorial_intro.html#getting-information-from-the-server
